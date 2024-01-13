@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "/OpAejlWcp6WbNhF3I9cknij8XXOQxoo+FbPYzzlVFVi90yy6hBPWCrpVGtIUFvl8aYLrStOteOlSjn+D3nVmA==",
+  "success": true,
+  "projectFilePath": "D:\\ruth\\TecnoGestion\\Platzi\\Web Apps111\\SitioWebPlatzi111\\PlatziWebAppMvc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ruth\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Ruth\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Ruth\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Ruth\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
