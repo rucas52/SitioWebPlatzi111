@@ -28,3 +28,4 @@ D:\ruth\TecnoGestion\Platzi\Web Apps111\SitioWebPlatzi111\obj\Debug\net7.0\refin
 D:\ruth\TecnoGestion\Platzi\Web Apps111\SitioWebPlatzi111\obj\Debug\net7.0\PlatziWebAppMvc.pdb
 D:\ruth\TecnoGestion\Platzi\Web Apps111\SitioWebPlatzi111\obj\Debug\net7.0\PlatziWebAppMvc.genruntimeconfig.cache
 D:\ruth\TecnoGestion\Platzi\Web Apps111\SitioWebPlatzi111\obj\Debug\net7.0\ref\PlatziWebAppMvc.dll
+D:\ruth\TecnoGestion\Platzi\Web Apps111\SitioWebPlatzi111\obj\Debug\net7.0\PlatziWebAppMvc.sourcelink.json
